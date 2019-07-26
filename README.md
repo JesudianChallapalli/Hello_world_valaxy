@@ -1,2 +1,3 @@
-# Hello_world_valaxy
-My first CI
+# maven-project
+
+Simple Maven Project
